@@ -1,7 +1,8 @@
-## Oi! Eu sou o Gabriel Martins
+## Oi! Meu nome é Gabriel Martins
 
-- 🌱 Estou aprendendo Java no Eductech-PR
-- 📚 Estudei um pouco de Python
+- ☕ Estou aprendendo Java no Eductech-PR
+- 🐍 Já estudei um pouco de Python
+- 📚 Pretendo cursar engenharia de software
 
  <div>
   <a href="https://github.com/Gabriel-M-N-da-Silva">
