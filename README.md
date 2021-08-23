@@ -1,4 +1,4 @@
-## Oi! Meu nome é Gabriel Martins
+## 👋 Oi! Meu nome é Gabriel Martins
 
                                              - ☕ Estou aprendendo Java no Eductech-PR
 
