@@ -2,9 +2,9 @@
 
                                              - ☕ Estou aprendendo Java no Eductech-PR
 
-                                             - 🐍 Já estudei um pouco de Python
+                                             - 🐍 Estudei python.
 
-                                             - 📚 Pretendo cursar engenharia de software
+                                             - 💻 Cursando Eng. de Software
 
  <div>
   <a href="https://github.com/Gabriel-M-N-da-Silva">
