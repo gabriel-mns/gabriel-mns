@@ -12,6 +12,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-N-da-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block margin-left:30px"><br>
+<div style="display: inline_block"><br>
  <img align="center" alt="Gmns-Gif" height="180" width="240" src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e0fb8ed56035f7c4697d9ddc391eb3f076dca516&rid=giphy.gif&ct=g">
 </div>
