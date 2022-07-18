@@ -1,12 +1,12 @@
 ## 👋 Oi! Meu nome é Gabriel Martins
 
-                                             - ☕ Estou aprendendo Java no Eductech-PR
+                                             - 👨‍💻 Aprendendo Desenvolvimento Web
 
                                              - 🐍 Estudei python.
 
                                              - 💻 Cursando Eng. de Software
 
- <div>
+ <div style="display: flex; background-color:red">
   <a href="https://github.com/Gabriel-M-N-da-Silva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-M-N-da-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-N-da-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
