@@ -6,7 +6,7 @@
 
                                              - 💻 Cursando Eng. de Software
 
- <div style="display: flex; width: fit-content; margin:auto;">
+ <div style="display: flex; align-items:center; justify-content:center;">
   <a href="https://github.com/Gabriel-M-N-da-Silva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-M-N-da-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-N-da-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
