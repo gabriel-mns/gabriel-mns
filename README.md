@@ -1,8 +1,8 @@
 ## 👋 Oi! Meu nome é Gabriel Martins
 
-                                             - 👨‍💻 Aprendendo Desenvolvimento Web
+                                             - ☕ Aperfeiçoando conhecimentos em Java
 
-                                             - 🐍 Estudei python.
+                                             - 📖 Já estudei SQL.
 
                                              - 💻 Cursando Eng. de Software
 
