@@ -1,18 +1,25 @@
-## 👋 Oi! Meu nome é Gabriel Martins
+# 👋 Oi! Tudo bem? 
+Me chamo Gabriel, Seja bem vindo(a) ao meu portifólio!
 
-                                             - ☕ Aperfeiçoando conhecimentos em Java
+Aqui você terá acesso aos projetos acadêmicos e pessoais que desenvolvi.
 
-                                             - 📖 Já estudei SQL.
+<hr>
 
-                                             - 💻 Cursando Eng. de Software
+### 🚀 Habilidades
+Estes são os conhecimentos que possuo no momento:
+   - 📄 SQL
+   - ☕ Java
+   - 🐍 Python
+   - 🌐 JavaScript
+   - 📏 UML
 
- <div style="display: flex; align-items:center; justify-content:center; background-color: red;">
-  <a href="https://github.com/Gabriel-M-N-da-Silva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-M-N-da-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-M-N-da-Silva&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+<hr>
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Gmns-Gif" height="180" width="240" src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b7611e0fb8ed56035f7c4697d9ddc391eb3f076dca516&rid=giphy.gif&ct=g">
-</div>
+### 📊 Estatísticas
+
+<a markdown="1" href="https://github.com/gabriel-mns">
+  <img style="height:11rem" src="https://github-readme-stats.vercel.app/api?username=gabriel-mns&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img style="height:11rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-mns&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+
+
